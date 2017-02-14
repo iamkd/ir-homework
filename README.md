@@ -10,3 +10,6 @@ Use `npm install` before launch.
 |*files*|*Books in .txt to parse*                |
 |first  |Dictionary builder                      |
 |second |Reverse index & incidence matrix builder|
+|third  |Biword & coordinate index generator     |
+|fourth |B-Tree, K-gram indexes                  |
+|fifth  |MapReduce for big data                  |
